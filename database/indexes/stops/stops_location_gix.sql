@@ -1,0 +1,1 @@
+CREATE INDEX stops_location_gix ON stops USING GIST (location);

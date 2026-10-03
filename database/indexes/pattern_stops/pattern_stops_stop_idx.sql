@@ -1,0 +1,1 @@
+CREATE INDEX pattern_stops_stop_idx ON pattern_stops (stop_id);

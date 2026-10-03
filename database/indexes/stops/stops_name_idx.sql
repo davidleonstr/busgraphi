@@ -1,0 +1,1 @@
+CREATE INDEX stops_name_idx ON stops (lower(name));

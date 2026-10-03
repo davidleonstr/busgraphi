@@ -1,0 +1,1 @@
+CREATE INDEX route_patterns_route_idx ON route_patterns (route_id);
